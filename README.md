@@ -2,6 +2,7 @@
 ## 0. Prerequisites
 
 * Java (Tested with OpenJDK 14)
+* Maven (Tested with Maven 3.6)
 
 ## 1. Install Visual Studio Code
 
@@ -40,4 +41,5 @@ git clone git@github.com:thbde/triangle2019.git
 * Start "Read/Write" Session
 * Sign-in via Github
 * Invitation link is copied to Clipboard and can be shared
-* see [Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) for more info
+* See [Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) for more info
+* You cam follow/focus participants in the "Live Share" Tab <img src="./resources/live_share_tab.png" width="25">
