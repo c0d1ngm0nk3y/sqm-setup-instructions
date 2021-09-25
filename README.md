@@ -42,4 +42,4 @@ git clone git@github.com:thbde/triangle2020.git
 * Sign-in via Github
 * Invitation link is copied to Clipboard and can be shared
 * See [Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) for more info
-* You cam follow/focus participants in the "Live Share" Tab <img src="./resources/live_share_tab.png" width="25">
+* You can follow/focus participants in the "Live Share" Tab <img src="./resources/live_share_tab.png" width="25">
