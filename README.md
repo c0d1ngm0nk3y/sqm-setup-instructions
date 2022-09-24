@@ -28,6 +28,11 @@
 ```
 git clone git@github.com:thbde/triangle2022.git
 ```
+or
+```
+git clone https://github.com/thbde/triangle2022.git
+```
+
 * Open folder view `File > Open...`
 * Import Java Project <img src="./resources/import_project.png"  width="400">
 * Open "Explorer" Tab <img src="./resources/explorer_tab.png" width="25">
