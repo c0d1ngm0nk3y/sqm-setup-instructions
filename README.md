@@ -26,7 +26,7 @@
 
 * Clone Triangle Example
 ```
-git clone git@github.com:thbde/triangle2021.git
+git clone git@github.com:thbde/triangle2022.git
 ```
 * Open folder view `File > Open...`
 * Import Java Project <img src="./resources/import_project.png"  width="400">
